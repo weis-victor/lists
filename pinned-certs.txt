@@ -1,0 +1,762 @@
+*.fast.com_fqdn
+cibng.ibanking-services.com_fqdn
+secure2a.internet-estatements.com
+*.canvas-user-content.com
+*.instructure.com
+*.adobelogin.com
+*.gotomeeting.com
+*.windowsupdate.com
+*.adobe.com
+*.android.com
+*.apple.com
+*.appstore.com
+*.auth.gfx.ms
+*autoupdate.opera.com
+*.cdn-apple.com
+*.citrixonline.com
+*.dropbox.com
+*.eease.com
+aus*.mozilla.org
+*.fortinet.com
+*drive.google.com
+*play.google.com
+*.ggpht.com
+*.books.google.com
+*.googleapis.com
+*.icloud.com
+*itunes.apple.com
+*.live.com
+*.microsoft.com
+*.mzstatic.com
+*.messenger.live.com
+*.softwareupdate.vmware.com
+*swscan.apple.com
+*update.microsoft.com
+*.verisign.com
+*.allstate.com
+*.amhfcu.org
+*.battleserver.reliclink.com
+*.canvas-user-content.com
+*.cricut.com
+*.fortimail.com
+*.fortinet.com
+*.instagram.com
+*.instructure.com
+*.it-harvest.com
+*.marriott.com
+*.myfortinet.com
+*.settings-win.data.microsoft.com
+*.signal.org
+*.v10.events.data.microsoft.com
+*.verizonwireless.com
+*.whispersystems.org
+*.youtube.com
+*.zoho.com
+
+# aviation
+## american-airlines
+### American Airlines - 2024-02-07
+cdn.flyaa.aa.com
+
+# aviation
+## delta
+### Delta Airlines - 2024-05-31
+api.delta.com
+signin.delta.com
+
+# aviation
+## flightradar
+### FlightRadar - 2024-08-05
+data-feed.flightradar24.com
+
+# aviation
+## southwest-airlines
+### Southwest Airlines - 2024-03-19
+mobile.southwest.com
+smetrics.com
+
+# cloud-storage
+## tresorit
+### Tresorit - 2024-02-09
+*.tresorit.com
+
+# communication
+## discord
+### Discord - 2024-03-22
+dl.discordapp.net
+gateway.discord.gg
+status.discord.com
+cdn.discordapp.com
+latency.discord.media
+media.discordapp.net
+discordapp.net
+discord.com
+
+# communication
+## keybase
+### Keybase - 2024-02-09
+keybase.io
+api.keybase.io
+
+# communication
+## signal
+### Signal - 2024-02-09
+cdn.signal.org
+cdn2.signal.org
+*.signal.org
+
+# communication
+## whatsapp
+### Whatsapp - 2024-02-09
+*.whatsapp.net
+
+# cryptocurrency
+## trezor
+### Trezor - 2024-02-09
+*.trezor.io
+
+# finance
+## paypal
+### Paypal - 2024-02-09
+api-m.paypal.com
+
+# finance
+## tickrmeter
+### tickrmeter.io - 2024-06-12
+tickrmeter.io
+
+# gaming
+## blizzard
+### Blizzard - 2024-02-07
+us.battle.net
+alert-us.battle.net
+alert-eu.battle.net
+account.battle.net
+bnetaccount.akamaized.net
+blzprofile.akamaized.net
+content-ui.battle.net
+geo.battle.net
+nydus.battle.net
+d9qcypg7o58bv.cloudfront.net
+api.blizzard.com
+blz-contentstack-images.akamaized.net
+blz-contentstack-assets.akamaized.net
+bnetcmsus-a.akamaihd.net
+us.actual.battle.net
+
+# hotels
+## hyatt
+### Hyatt - 2024-02-07
+mobileapp.hyatt.com
+
+# hotels
+## international-hotel-group
+### International Hotels Group - 2024-02-07
+apis.ihg.com
+
+# hotels
+## marriott
+### Marriott - 2024-02-07
+gatewaydsapprd.marriott.com
+
+# mail
+## protonmail
+### Proton Mail - 2024-02-09
+protonmail.ch
+api.protonmail.ch
+protonvpn.ch
+api.protonvpn.ch
+verify.protonmail.com
+verify-api.protonmail.com
+protonmail.com
+account.protonmail.com
+protonvpn.com
+account.protonvpn.com
+verify.protonvpn.com
+verify-api.protonvpn.com
+proton.me
+account.proton.me
+mail-api.proton.me
+status.proton.me
+verify.proton.me
+
+# media
+## giphy
+### Giphy - 2024-02-07
+media0.giphy.com
+media1.giphy.com
+media2.giphy.com
+media3.giphy.com
+media4.giphy.com
+
+# media
+## spotify
+### Spotify - 2024-10-05
+ap-gew4.spotify.com
+ap-guc3.spotify.com
+api-partner.spotify.com
+api.spotify.com
+apresolve.spotify.com
+audio-ak.spotifycdn.com
+audio-fa.scdn.co
+audio4-ak-spotify-com.akamaized.net
+audio4-fa.scdn.co
+audio4-gm-fb.spotifycdn.com
+charts-images.scdn.co
+clienttoken.spotify.com
+daily-mix.scdn.co
+daily-mix.scdn.co
+dailymix-images.scdn.co
+dealer.spotify.com
+exp.wg.spotify.com
+guc3-dealer.g2.spotify.com
+guc3-dealer.spotify.com
+guc3-spclient.spotify.com
+gue1-spclient.spotify.com
+heads-fa-tls13.spotifycdn.com
+heads-fa.scdn.co
+i.scdn.co
+image-cdn-ak.spotifycdn.com
+image-cdn-fa.spotifycdn.com
+lexicon-assets.spotifycdn.com
+lineup-images.scdn.co
+lineup-images.scdn.co
+login5.spotify.com
+misc.scdn.co
+misc.scdn.co
+misc.spotifycdn.com
+mosaic.scdn.co
+newjams-images.scdn.co
+open.spotifycdn.com
+pickasso.spotifycdn.com
+pl.scdn.co
+seed-mix-image.spotifycdn.com
+seed-mix-image.spotifycdn.com
+spclient.wg.spotify.com
+video-ak.cdn.spotify.com.splitter-eip.akadns.net
+video-akpcw-cdn-spotify-com.akamaized.net
+video-fa.scdn.co
+wrapped-images.spotifycdn.com
+xpui.app.spotify.com
+
+# mobile-device-management
+## jumpcloud
+### Jumpcloud - 2024-07-17
+apple.mdm.jumpcloud.com
+*.jumpcloud.com
+a1hrq03pdcca60-ats.iot.us-east-1.amazonaws.com
+
+# retail
+## starbucks
+### Starbucks - 2024-02-07
+openapi.starbucks.com
+
+# social-media
+## facebook
+### Facebook - 2024-05-29
+gateway.facebook.com
+edge-mqtt.facebook.com
+cdn.fbsbx.com
+web.facebook.com
+*.xz.fbcdn.net
+*.*.fna.fbcdn.net
+scontent.xx.fbcdn.net
+*.xx.fbcdn.net
+*.xy.fbcdn.net
+*.fna.fbcdn.net
+graph.facebook.com
+rupload.facebook.com
+
+# social-media
+## instagram
+### Instagram - 2024-02-09
+i.instagram.com
+i-fallback.instagram.com
+gateway.instagram.com
+l.instagram.com
+scontent.cdninstagram.com
+scontent-sea1-1.cdninstagram.com
+graph-fallback.instagram.com
+graph.instagram.com
+
+# social-media
+## snapchat
+### Snapchat - 2024-02-09
+*.snapchat.com
+*.chat.snapchat.com
+*.api.snapchat.com
+cf-st.sc-cdn.net
+
+# social-media
+## twitter
+### Twitter - 2024-02-07
+api.twitter.com
+
+# software
+## calibre
+### Calibre - 2024-02-07
+code.calibre-ebook.com
+
+# software
+## cyberpower
+### powerpanel
+#### PowerPanel Service - 2024-04-23
+powerpanelservice.cyberpower.com
+
+# software
+## dameware-remote-everywhere
+### Dameware Remote Everywhere - 2024-04-05
+login.swi-dre.com
+
+# software
+## docker-desktop
+### Docker Desktop - 2024-02-07
+portainer-io-assets.sfo2.digitaloceanspaces.com
+desktop.docker.com
+
+# software
+## filezilla
+### Filezilla - 2024-06-15
+update.filezilla-project.org
+
+# software
+## github-desktop
+### Github Desktop
+api.github.com
+alive.github.com
+central.github.com
+avatars.githubusercontent.com
+
+# software
+## google-chrome
+### Google Chrome - 2024-02-07
+update.googleapis.com
+www.googleapis.com
+
+# software
+## gradle
+### Gradle - 2024-04-05
+services.gradle.org
+
+# software
+## grammarly
+### Grammarly - 2024-04-05
+f-log.grammarly.io
+win-extension.femetrics.grammarly.io
+f-log-win-extension.grammarily.io
+
+# software
+## iterm2
+### iTerm2 - 2024-04-17
+*.iterm2.com
+
+# software
+## little-snitch
+### Little Snitch - 2024-02-07
+sw-update.obdev.at
+
+# software
+## sap-concur
+### SAP Concur Mobile App - 2024-02-07
+us2.api.concursolutions.com
+Www-glz.api.concursolutions.com
+
+# software
+## sentry
+### Sentry.io - 2024-04-05
+sentry.io
+
+# software
+## studio-3t
+### Studio 3T - 2024-02-07
+auth.studio3t.com
+update.studio3t.com
+updates.3t.io
+license-portal-eb.studio3t.com
+
+# software
+## video-lan
+### VLC Media Player - 2024-02-07
+update.videolan.org
+
+# software
+## visual-studio-code
+### Visual Studio Code - 2024-02-07
+default.exp-tas.com # AB testing
+az764295.vo.msecnd.net
+marketplace.visualstudio.com
+googlecloudtools.gallery.vsassets.io
+eamodio.gallerycdn.vsassets.io
+ms-vscode-remote.gallery.vsassets.io
+ms-vscode-remote.gallerycdn.vsassets.io
+github.gallerycdn.vsassets.io
+googlecloudtools.gallerycdn.vsassets.io
+
+# transport
+## uber
+### UBer - 2024-02-09
+*.uber.com
+
+# vendors
+## acronis
+### Acronis - 2024-04-05
+dl.acronis.com
+
+# vendors
+## adobe
+### acrobat-reader
+#### Acrobat Reader - 2024-03-19
+platformdl.adobe.com
+fpdownload.adobe.com
+sstats.adobe.com
+get3.adobe.com
+get.adobe.com
+stats.adobe.com
+dlmping3.adobe.com
+dlmping2.adobe.com
+
+# vendors
+## adobe
+### updates
+#### Adobe Updates - 2024-03-19
+*.acrobat.com
+*.echosign.com
+*.echocdn.com
+*.bam.nr-data.net
+*.newrelic.com
+
+# vendors
+## apple
+### app-notarization
+#### App Notarization - 2024-04-22
+api.apple-cloudkit.com
+
+# vendors
+## apple
+### app-store
+#### App Store - 2024-02-07
+fpinit.itunes.apple.com
+init.ess.apple.com
+
+# vendors
+## apple
+### apple-pay
+#### Apple Pay - 2025-01-25
+smp-paymentservices.apple.com
+
+# vendors
+## apple
+### apple-tv
+#### Apple TV - 2024-04-22
+sylvan.apple.com
+
+# vendors
+## apple
+### icloud
+#### iCloud - 2025-01-02
+attester.gateway.icloud.com
+
+# vendors
+## apple
+### maps
+#### Apple Maps - 2024-02-09
+gsp*-ssl.ls.apple.com
+
+# vendors
+## apple
+### podcasts
+#### Apple Podcasts - 2025-03-01
+amp-api.podcasts.apple.com
+
+# vendors
+## apple
+### siri
+#### Siri - 2024-05-01
+guzzoni.apple.com
+
+# vendors
+## apple
+### site-association
+#### Apple App Site Association - 2024-07-18
+app-site-association.cdn-apple.com
+app-site-association.networking.apple
+app-site-association-parent.networking.apple
+
+# vendors
+## apple
+### updates
+#### Updates - 2024-03-19
+appldnld.apple.com
+configuration.apple.com
+gg.apple.com
+gnf-mdn.apple.com
+gnf-mr.apple.com
+ig.apple.com
+mesu.apple.com
+ns.itunes.apple.com
+oscdn.apple.com
+osrecovery.apple.com
+skl.apple.com
+swcdn.apple.com
+swdist.apple.com
+swdownload.apple.com
+swpost.apple.com
+swscan.apple.com
+updates-http.cdn-apple.com
+updates.cdn-apple.com
+xp.apple.com
+
+# vendors
+## apple
+### weather
+#### Apple Weather - 2024-04-23
+weather-data.apple.com
+
+# vendors
+## cisco
+### mce
+#### My Cisco Entitlements (MCE) - 2024-04-23
+mce.cisco.com
+
+# vendors
+## crowdstrike
+### Crowdstrike - 2024-06-14
+falcon.crowdstrike.com
+crowdstrike.com
+cloudsink.net
+ts01-b.cloudsink.net
+lfodown01-b.cloudsink.net
+
+# vendors
+## meta
+### oculus
+#### Oculus - 2024-04-05
+graph.oculus.com
+www.oculus.com
+
+# vendors
+## microsoft
+### authentication
+#### Microsoft Authentication - 2024-05-17
+login.live.com
+device.login.microsoftonline.com
+certauth.login.microsoftonline.com
+
+# vendors
+## microsoft
+### intune
+#### Intune - 2024-06-27
+intunemaape1.eus.attest.azure.net
+intunemaape2.eus2.attest.azure.net
+intunemaape3.cus.attest.azure.net
+intunemaape4.wus.attest.azure.net
+intunemaape5.scus.attest.azure.net
+intunemaape6.ncus.attest.azure.net
+intunemaape7.neu.attest.azure.net
+intunemaape8.neu.attest.azure.net
+intunemaape9.neu.attest.azure.net
+intunemaape10.weu.attest.azure.net
+intunemaape11.weu.attest.azure.net
+intunemaape12.weu.attest.azure.net
+intunemaape13.jpe.attest.azure.net
+intunemaape17.jpe.attest.azure.net
+intunemaape18.jpe.attest.azure.net
+intunemaape19.jpe.attest.azure.net
+
+# vendors
+## microsoft
+### office
+#### Microsoft Office - 2024-04-05
+ecs.nel.measure.office.net
+substrate.office.net
+
+# vendors
+## microsoft
+### shared
+#### Shared - 2024-04-05
+winatp-gw-cus.microsoft.com
+us-v20.events.data.microsoft.com
+*.x.cp.wd.microsoft.com
+
+# vendors
+## microsoft
+### teams
+#### Microsoft Teams - 2024-04-05
+tr.teams.microsoft.com
+*.relay.teams.microsoft.com
+
+# vendors
+## microsoft
+### update
+#### Microsoft Updates - 2024-10-25
+slscr.update.microsoft.com
+
+# vendors
+## microsoft
+### windows-store
+#### Windows Store - 2025-11-26
+sls.update.microsoft.com
+storeedgefd.dsx.mp.microsoft.com
+fe3.delivery.mp.microsoft.com
+displaycatalog.mp.microsoft.com
+livetileedge.mdsx.mp.microsoft.com
+fe2.update.microosft.com
+v10.vortex-win.data.microsoft.com
+fe3cr.delivery.mp.microsoft.com
+insiderservice.microsoft.com
+*.prod.do.dsp.mp.microsoft.com
+*-prod.do.dsp.mp.microsoft.com
+
+# vendors
+## microsoft
+### wsl
+#### Windows Subsystem Linux - 2025-10-16
+fe3cr.delivery.mp.microsoft.com
+wdcp.microsoft.com
+wdcalt.microsoft.com
+
+# vendors
+## mozilla
+### Mozilla - 2025-12-23 https://wiki.mozilla.org/SecurityEngineering/Public_Key_Pinning
+*.addons.mozilla.org
+*.addons.mozilla.net
+*.accounts.firefox.com
+*.cdn.mozilla.org
+*.cdn.mozilla.net
+*.media.mozilla.com
+
+# vendors
+## netgear
+### Netgear - 2024-11-16
+genieremote.netgear.com
+http.fw.updates1.netgear.com
+devcom.up.netgear.com
+
+# vendors
+## palo-alto-networks
+### adem
+#### Autonomous Digital Experience Management - 2024-04-16
+agents.uk1.eu-west-2.dem.prismaaccess.com
+agents.us1.us-east-2.dem.prismaaccess.com
+agents.eu1.eu-central-1.dem.prismaaccess.com
+agents.ca1.ca-central-1.dem.prismaaccess.com
+agents.au1.ap-southeast-2.dem.prismaaccess.com
+agents.sg1.ap-southeast-1.dem.prismaaccess.com
+agents.jp1.ap-northeast-1.dem.prismaaccess.com
+agents.in1.ap-south-1.dem.prismaaccess.com
+agents.dem.prismaaccess.com
+agents-il4-prod-us-central1.dem.prismasasegov.com
+agents.dem.prismasasegov.com
+
+# vendors
+## palo-alto-networks
+### dlp
+#### DLP - 2023-04-19
+dlp.uk.hawkeye.services-edge.paloaltonetworks.com
+dlp.gov-hawkeye.services-edge.paloaltonetworks.com
+dlp.stg-gov-hawkeye.services-edge.paloaltonetworks.com
+gov-hawkeye.services-edge.paloaltonetworks.com
+stg-gov-hawkeye.services-edge.paloaltonetworks.com
+enforcer.gov-hawkeye.services-edge.paloaltonetworks.com
+enforcer.stg-gov-hawkeye.services-edge.paloaltonetworks.com
+
+# vendors
+## palo-alto-networks
+### iot
+#### IoT - 2024-03-19
+*.iot.services-edge.paloaltonetworks.com
+gov-iot.services-edge.paloaltonetworks.com
+stg-gov-iot.services-edge.paloaltonetworks.com
+enforcer.gov-iot.services-edge.paloaltonetworks.com
+enforcer.stg-gov-iot.services-edge.paloaltonetworks.com
+
+# vendors
+## palo-alto-networks
+### logging-service
+#### Logging Service - 2024-03-19
+*.lc.prod.us.cs.paloaltonetworks.com
+in.lc.prod.us.cs.paloaltonetworks.com
+api.lc.prod.us.cs.paloaltonetworks.com
+lic.lc.prod.us.cs.paloaltonetworks.com
+*.lc.prod.eu.cs.paloaltonetworks.com
+in.lc.prod.eu.cs.paloaltonetworks.com
+api.lc.prod.eu.cs.paloaltonetworks.com
+lic.lc.prod.eu.cs.paloaltonetworks.com
+
+# vendors
+## palo-alto-networks
+### sdwan
+#### Prisma SDWAN - 2024-08-13
+sdwan-stats-hood-us.cgnx.net
+controller.hood.cgnx.net
+locator.cgnx.net
+
+# vendors
+## rapid7
+### Rapid7 Application - 2024-04-19
+us.main.endpoint.ingress.rapid7.com
+endpoint.ingress.rapid7.com
+us.api.endpoint.ingress.rapid7.com
+us.storage.endpoint.ingress.rapid7.com
+us.storage.main.endpoint.ingress.rapid7.com
+
+# vendors
+## sensorpush
+### Sensorpush - 2025-05-01
+cloud.sensorpush.com
+cognito-identity.us-east-1.amazonaws.com
+
+# vendors
+## sophos
+### Sophos - 2024-05-30
+4.sophosxl.net
+sus.sophosupd.com
+sdds3.sophosupd.com
+mcs2-cloudstation-us-east-1.prod.hydra.sophos.com
+
+# vendors
+## trellix
+### Trellix - 2024-04-05
+*.manage.trellix.com
+lc.trellix.com
+api.soc.trellix.com
+
+# vendors
+## trendmicro
+### TrendMicro - 2024-11-19
+*.aot.trendmicro.com
+*.activeupdate.trendmicro.com
+*.icrc.trendmicro.com
+*.url.trendmicro.com
+*.fbs25.trendmicro.com
+*.gfrbridge.trendmicro.com
+*.trx.trendmicro.com
+*.mgcp.trendmicro.com
+*.xbc.trendmicro.com
+*.manage.trendmicro.com
+*.xdr.trendmicro.com
+*.trendmicro.com
+
+# vendors
+## ubiquiti
+### Ubiquiti - 2024-07-19
+trace.svc.ui.com
+
+# vendors
+## zscaler
+### Zscaler - 2024-04-05
+*.*.prod.zpath.net
+mobile.zscloud.net
+
+# video-conferencing
+## zoom
+### Zoom - 2024-02-09
+*.zoom.us
+zoom.us
+*.cloud.zoom.us
+
+# weather
+## ventusky
+### Ventusky - 2024-02-07
+data.ventusky.com
+api.ventusky.com
